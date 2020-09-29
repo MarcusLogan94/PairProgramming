@@ -219,10 +219,11 @@ namespace PairProgramming
                     }
 
 
-                    Console.WriteLine("\n");
-                    Console.WriteLine("Again?:");
-                    Console.ReadLine();
+                   
                 }
+                Console.WriteLine("\n");
+                Console.WriteLine("Again?:");
+                Console.ReadLine();
 
             }
 
